@@ -53,18 +53,24 @@
 
 ### Booking.com — потрібно перевірити ціни на нові дати
 
-Попередні знахідки (ціни можуть відрізнятися для 20–25 червня):
+Оновлені ціни на нові дати (20–25 червня), рейтинг 9+:
 
-| # | Назва | Локація | Стара ціна | Рейтинг | Примітки |
-|---|-------|---------|------------|---------|----------|
-| B1 | [**Sera-Nata Superior Suites**](https://www.booking.com/hotel/gr/sera-nata-superior-suites.html) | Нікіті | $1,209 | **10.0 (262)** | 262 відгуки з 10.0! |
-| B2 | [**Aloe The Green Suites**](https://www.booking.com/hotel/gr/aloe-the-green-suites.html) | Нікіті | $1,168 | 9.9 (166) | 166 відгуків |
-| B3 | [**Aria Garden Suites**](https://www.booking.com/hotel/gr/aria-garden-suites.html) | Нікіті | $1,094 | 9.7 (174) | 350м до пляжу |
-| B4 | [**Ilis Villas**](https://www.booking.com/hotel/gr/ilis-villas.html) | Нікіті | $1,498 | 9.7 (83) | 2 BR, 250м до пляжу |
-| B14 | [**Kali Thea Suites**](https://www.booking.com/hotel/gr/kalithea-suites.html) | Н.Мармарас | $1,000 | **9.8 (279)** | 279 відгуків! |
-| B8 | [**KaSta Family Apartments**](https://www.booking.com/hotel/gr/kasta-family-apartments.html) | Нікіті | $1,145 | 9.7 (104) | ★ сподобався |
-| B20 | [**Pel Mar**](https://www.booking.com/hotel/gr/pel-mar.html) | Пефкохорі | $1,244 | 9.7 (219) | 50м до пляжу |
-| B12 | [**Estellar Villas**](https://www.booking.com/hotel/gr/estellar-villas-neos-marmaras.html) | Н.Мармарас | — | **10.0 (21)** | 156м², 50м до пляжу! |
+| # | Назва | Ціна (5н) | $/ніч | Рейтинг | До пляжу | Кімнати | Примітки |
+|---|-------|-----------|-------|---------|----------|---------|----------|
+| B1 | [**Hill Blue**](https://www.booking.com/hotel/gr/hill-blue.html) | $791 | $158 | 9.4 (34) | — | 2 BR | Найдешевший 9+! |
+| B2 | [**Elina House**](https://www.booking.com/hotel/gr/elina-house.html) | $878 | $176 | 9.2 (31) | — | 2 BR | |
+| B3 | [**Menta Cozy House**](https://www.booking.com/hotel/gr/menta-cozy-house.html) | $1,120 | $224 | 9.6 (7) | 500м | — | |
+| B4 | [**Alley House by RentalsPro**](https://www.booking.com/hotel/gr/alley-house-by-rentalspro-services-nikiti-halkidiki.html) | $1,149 | $230 | 9.7 (13) | **150м** | 2 BR | Близько до пляжу! |
+| B5 | [**SithoniaRS Melora Luxury**](https://www.booking.com/hotel/gr/sithoniars-melora-luxury-apartment.html) | $1,202 | $240 | 9.4 (31) | 500м | 2 BR | |
+| B6 | [**KaSta Family Apartments**](https://www.booking.com/hotel/gr/kasta-family-apartments.html) | $1,207 | $241 | 9.7 (104) | 600м | 2 BR | ★ сподобався раніше |
+| B7 | [**Lilli Deluxe apartment**](https://www.booking.com/hotel/gr/lilli-deluxe-apartment.html) | $1,224 | $245 | 9.4 (20) | beachfront | 2 BR | На пляжі! |
+| B8 | [**Ventus e Paradiso Villa**](https://www.booking.com/hotel/gr/ventus-e-paradiso-villa-nikiti-halkidiki.html) | $1,259 | $252 | **10.0 (12)** | 600м | 2 BR | Ідеальний рейтинг! |
+| B9 | [**Aria Garden Suites**](https://www.booking.com/hotel/gr/aria-garden-suites.html) | $1,272 | $254 | 9.7 (174) | 350м | — | 174 відгуки |
+| B10 | [**Sera-Nata Superior Suites**](https://www.booking.com/hotel/gr/sera-nata-superior-suites.html) | $1,340 | $268 | **10.0 (262)** | 450м | — | **262 відгуки з 10.0!** |
+| B11 | [**Thalos Luxury Living III**](https://www.booking.com/hotel/gr/thalos-luxury-living-iii.html) | $1,375 | $275 | 9.0 (4) | — | 2 BR | Сестра Thalos I/II |
+| B12 | [**Miroes Suites**](https://www.booking.com/hotel/gr/miroes-suites.html) | $1,513 | $303 | 9.7 (455) | 350м | — | **455 відгуків!** Сніданок |
+| B13 | [**Exotic Apartments**](https://www.booking.com/hotel/gr/exotic-apartments-nikiti.html) | $1,744 | $349 | **10.0 (11)** | **250м** | 2 BR | |
+| B14 | [**Mulberry Nikiti Resorts**](https://www.booking.com/hotel/gr/mulberry-nikiti-resorts.html) | $1,860 | $372 | 9.7 (51) | 550м | — | |
 
 ---
 
@@ -83,8 +89,10 @@
 6. **N3 — Traditional Guest House** (Airbnb, Нікіті) — ~$951, 4.94/70, 70 відгуків
 7. **N6 — Casa Gustosa A2** (Airbnb, Нікіті) — ~$1,209, 5.0/8, 3 кімнати!
 8. **K2 — Seaside Escape** (Airbnb) — ~$1,053, 4.94/33, beachfront
-9. **B14 — Kali Thea Suites** (Booking, Н.Мармарас) — ~$1,000, 9.8/279, перевірити на нові дати
-10. **B1 — Sera-Nata** (Booking, Нікіті) — ~$1,209, 10.0/262, перевірити на нові дати
+9. **B1 — Hill Blue** (Booking, Нікіті) — $791, 9.4/34, 2BR — найдешевший на Booking 9+!
+10. **B4 — Alley House** (Booking, Нікіті) — $1,149, 9.7/13, 150м до пляжу, 2BR
+11. **B6 — KaSta Family** (Booking, Нікіті) — $1,207, 9.7/104, 2BR ★ сподобався
+12. **B10 — Sera-Nata** (Booking, Нікіті) — $1,340, **10.0/262** — найкращий рейтинг!
 
 ### Вище бюджету (до $1,600) — якщо варте
 

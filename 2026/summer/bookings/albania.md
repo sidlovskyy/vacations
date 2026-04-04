@@ -60,3 +60,23 @@
 
 7. **S1 — Bella Vista** (Саранда) — ~$907, 5.0/24, Top 5%, 2 балкони з видом на море, ліжечко
 8. **S2 — KS Luxury** (Саранда) — ~$815, 4.96/26, luxury, панорамний вид
+
+---
+
+## Booking.com — Саранда (рейтинг 9+, нові дати 26 черв – 1 лип)
+
+| # | Назва | Ціна (5н) | $/ніч | Рейтинг | До пляжу | Кімнати | Примітки |
+|---|-------|-----------|-------|---------|----------|---------|----------|
+| BK1 | [**Lengu Holidays Houses**](https://www.booking.com/hotel/al/lengu-holidays-houses.html) | $318 | $64 | **9.8 (70)** | 450м | 1 BR | Найдешевший з топ рейтингом! |
+| BK2 | [**Sunmoon Apartments**](https://www.booking.com/hotel/al/sunmoon-apartments.html) | $338 | $68 | 9.1 (46) | 550м | — | |
+| BK3 | [**Aloe Vera apartments**](https://www.booking.com/hotel/al/aloe-vera-apartments.html) | $390 | $78 | 9.0 (98) | beachfront | — | На пляжі, 98 відгуків |
+| BK4 | [**Rock Star-Pllakat**](https://www.booking.com/hotel/al/rock-star-pllakat.html) | $456 | $91 | **9.7 (122)** | beachfront | — | Beachfront! 122 відгуки |
+| BK5 | [**Genci Seaview @AlbaResidence**](https://www.booking.com/hotel/al/genci-seaview-apartaments-albaresidence.html) | $460 | $92 | 9.0 (248) | **50м** | **3 BR** | 3 кімнати! 248 відгуків, 147м², локація 9.8 |
+| BK6 | [**Kosta Apartments**](https://www.booking.com/hotel/al/kosta-apartments.html) | $462 | $92 | **9.7 (191)** | 150м | 2 BR | 191 відгук! |
+| BK7 | [**Saranda Apartaments Meta**](https://www.booking.com/hotel/al/saranda-apartaments-meta.html) | $462 | $92 | 9.5 (97) | 150м | 2 BR | |
+| BK8 | [**Eleanas Apartament**](https://www.booking.com/hotel/al/eleanas-apartament.html) | $494 | $99 | 9.7 (24) | 300м | 2 BR | |
+| BK9 | [**Apartment Katherina**](https://www.booking.com/hotel/al/apartment-katherina-sarande.html) | $520 | $104 | **9.8 (124)** | 300м | — | 124 відгуки! |
+| BK10 | [**Sarsed Home**](https://www.booking.com/hotel/al/sarsed-home.html) | $520 | $104 | 9.7 (20) | — | — | |
+| BK11 | [**Imperio Hotel**](https://www.booking.com/hotel/al/imperio-hotel.html) | $549 | $110 | 9.4 (157) | 200м | — | 157 відгуків |
+| BK12 | [**Villa Crystal**](https://www.booking.com/hotel/al/villa-crystal.html) | $606 | $121 | 9.1 (194) | 150м | 1 BR | 194 відгуки |
+| BK13 | [**Titania Hotel**](https://www.booking.com/hotel/al/titania-hotel.html) | $664 | $133 | 9.1 (917) | beachfront | — | **917 відгуків!** Beachfront |
