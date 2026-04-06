@@ -48,6 +48,39 @@
 | K2 | [**Seaside Escape 1' to BEACH**](https://www.airbnb.com/rooms/18098884?adults=2&check_in=2026-06-20&check_out=2026-06-25&children=3) | Халкідікі | ~$1,053 | ~$211 | 2 BR | 4.94 (33) | 1 хв до пляжу, beachfront! |
 | K3 | [**Sunny Home Pefkohori**](https://www.airbnb.com/rooms/1074745917802192772?adults=2&check_in=2026-06-20&check_out=2026-06-25&children=3) | Пефкохорі | ~$1,182 | ~$236 | 2 BR, 5 ліжок | 5.0 (6) | Guest favorite |
 | K4 | [**Summer house with view**](https://www.airbnb.com/rooms/19083526?adults=2&check_in=2026-06-20&check_out=2026-06-25&children=3) | Пефкохорі | ~$665 | ~$133 | 3 BR | 4.9 (61) | Guest favorite, 61 відгук, 3 кімнати, дуже дешево |
+| K5 | [**Dream apartments 2**](https://www.airbnb.com/rooms/917120845437864393?adults=2&check_in=2026-06-20&check_out=2026-06-25&children=3) | Каллітея | ~$543 | ~$109 | 2 BR | 4.75 (16) | Найдешевший у Каллітеї |
+| K6 | [**Dream Apartments**](https://www.airbnb.com/rooms/35359145?adults=2&check_in=2026-06-20&check_out=2026-06-25&children=3) | Каллітея | ~$611 | ~$122 | 2 BR | 4.85 (39) | Superhost |
+| K7 | [**2BR w/ kitchen pool near beach**](https://www.airbnb.com/rooms/891049294440518186?adults=2&check_in=2026-06-20&check_out=2026-06-25&children=3) | Каллітея | ~$727 | ~$145 | 2 BR | 4.91 (11) | Басейн, 5 хв до пляжу |
+| K8 | [**Sea view apartment big garden**](https://www.airbnb.com/rooms/11820035?adults=2&check_in=2026-06-20&check_out=2026-06-25&children=3) | Н.Фокея | ~$724 | ~$145 | 2 BR | 4.93 (42) | Guest favorite, великий сад |
+| K9 | [**Fourka's Beach Luxury House**](https://www.airbnb.com/rooms/43735288?adults=2&check_in=2026-06-20&check_out=2026-06-25&children=3) | Фурка | ~$724 | ~$145 | 2 BR | 4.85 (13) | Біля моря |
+| K10 | [**Welcome to Chalkidiki N.Fokea**](https://www.airbnb.com/rooms/12531587?adults=2&check_in=2026-06-20&check_out=2026-06-25&children=3) | Н.Фокея | ~$860 | ~$172 | 2 BR | 4.98 (45) | Guest favorite, BBQ |
+| K11 | [**Coral Sea Villa 2min from sea**](https://www.airbnb.com/rooms/25484193?adults=2&check_in=2026-06-20&check_out=2026-06-25&children=3) | Кассандра | ~$1,064 | ~$213 | 2 BR | 4.88 (85) | 85 відгуків, 2 хв від моря |
+| K12 | [**Big Blue Sea House**](https://www.airbnb.com/rooms/1068077172581319948?adults=2&check_in=2026-06-20&check_out=2026-06-25&children=3) | Н.Потідея | ~$1,086 | ~$217 | 2 BR | 5.0 (15) | Guest favorite |
+| K13 | [**Olivia-Christine's House**](https://www.airbnb.com/rooms/18610562?adults=2&check_in=2026-06-20&check_out=2026-06-25&children=3) | Афітос | ~$1,200 | ~$240 | 2 BR | 4.86 (57) | Guest favorite, 57 відгуків |
+| K14 | [**Two Bedroom Suite Eleon Suites**](https://www.airbnb.com/rooms/1080967076983200034?adults=2&check_in=2026-06-20&check_out=2026-06-25&children=3) | Афітос | ~$1,230 | ~$246 | 2 BR | 4.93 (14) | Early booking -35%! |
+| K15 | [**Afitos House above the sea**](https://www.airbnb.com/rooms/33599111?adults=2&check_in=2026-06-20&check_out=2026-06-25&children=3) | Афітос | ~$1,304 | ~$261 | 3 BR | 4.79 (62) | 3 кімнати, вид на море |
+
+### Booking.com — Каллітея (рейтинг 9+)
+
+| # | Назва | Ціна (5н) | $/ніч | Рейтинг | До пляжу | Кімнати | Примітки |
+|---|-------|-----------|-------|---------|----------|---------|----------|
+| BK1 | [**LY apartment**](https://www.booking.com/hotel/gr/ly-appartement.html) | $739 | $148 | **9.8 (14)** | 450м | 2 BR | Найдешевший 9+! |
+| BK2 | [**Apartment in the center**](https://www.booking.com/hotel/gr/apartment-xaris.html) | $878 | $176 | 9.4 (14) | 250м | — | |
+| BK3 | [**Next to the center**](https://www.booking.com/hotel/gr/next-to-the-center.html) | $936 | $187 | 9.0 (6) | 450м | — | |
+| BK4 | [**Apartment Georgos**](https://www.booking.com/hotel/gr/apartment-georgos-kallithea-halkidiki.html) | $936 | $187 | 9.2 (21) | 550м | 2 BR | |
+| BK5 | [**Phaethon Apartments**](https://www.booking.com/hotel/gr/phaethon-studios.html) | $952 | $190 | 9.5 (133) | 350м | — | 133 відгуки |
+| BK6 | [**Perfect Apartment 2 Gisiona**](https://www.booking.com/hotel/gr/perfect-apartment-2-gisiona.html) | $1,011 | $202 | 9.6 (9) | 550м | 2 BR | |
+| BK7 | [**Elysian Apartment**](https://www.booking.com/hotel/gr/elysian-apartment-kallithea.html) | $1,074 | $215 | 9.4 (5) | **250м** | 2 BR | |
+| BK8 | [**Casa Mameli**](https://www.booking.com/hotel/gr/casa-mameli.html) | $1,080 | $216 | 9.4 (89) | 500м | — | 89 відгуків |
+| BK9 | [**Marina Maisonette**](https://www.booking.com/hotel/gr/marina-maisonette-kallithea-halkidiki.html) | $1,108 | $222 | 9.3 (16) | 700м | — | |
+| BK10 | [**Utopia Apartment**](https://www.booking.com/hotel/gr/utopia-apartment.html) | $1,155 | $231 | **10.0 (1)** | 550м | — | |
+| BK11 | [**Modern home**](https://www.booking.com/hotel/gr/modern-home.html) | $1,159 | $232 | 9.5 (34) | 350м | 2 BR | 34 відгуки |
+| BK12 | [**Eden Nest**](https://www.booking.com/hotel/gr/eden-nest.html) | $1,200 | $240 | 9.6 (5) | 650м | 2 BR | |
+| BK13 | [**ANASTASIA ELENI**](https://www.booking.com/hotel/gr/anastasia-eleni.html) | $1,282 | $256 | 9.4 (330) | 650м | 2 BR | **330 відгуків!** |
+| BK14 | [**Modern Apartment Kallithea 2**](https://www.booking.com/hotel/gr/maria-39-s-apartment-kalithea.html) | $1,340 | $268 | **9.7 (40)** | **250м** | 2 BR | 250м, сучасний! |
+| BK15 | [**Modern Apartment Kallithea 3**](https://www.booking.com/hotel/gr/modern-central-apartment-kassandra.html) | $1,513 | $303 | 9.3 (32) | 250м | 2 BR | |
+| BK16 | [**DOMES APARTMENTS**](https://www.booking.com/hotel/gr/domes-apartments.html) | $1,535 | $307 | 9.3 (529) | 500м | — | **529 відгуків!** |
+| BK17 | [**Maltepe Luxury Accommodation**](https://www.booking.com/hotel/gr/maltepe-luxury-accommodation-by-travel-pro-services-kallithea-khalkidike.html) | $1,536 | $307 | 9.6 (329) | 500м | — | **329 відгуків** |
 
 ---
 
