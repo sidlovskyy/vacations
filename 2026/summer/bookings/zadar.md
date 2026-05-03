@@ -73,6 +73,65 @@
 
 ---
 
+## Booking.com — нові знахідки (27.04.2026)
+
+Свіжий пошук на Booking з сортуванням по review_score+price знайшов **багато нових варіантів** з рейтингом 10/10. Усе нижче — це позиції, яких не було в основній таблиці B1–B24. Усі — apt/villa/holiday home, ціни 5 ночей з 1 безкоштовною дитиною (де доступно).
+
+| # | Назва | Ціна (5н) | $/ніч | Рейтинг | До центру | Кімнати | Площа | Примітки |
+|---|-------|-----------|-------|---------|-----------|---------|-------|----------|
+| BN1 | [**Apartment Adriatic**](https://www.booking.com/hotel/hr/apartment-adriatic-zadar.html) | $761 | $152 | **10 (29)** | 1.8 км | 1 BR | 40 м² | **29 відгуків!** Найдешевший 10/10. Але **1 спальня** — 3 ліжка (2 twins + sofa). Free child stay |
+| BN2 | [**Apartments parking space 19830**](https://www.booking.com/hotel/hr/apartments-with-parking-space-zadar-19830.html) | $774 | $155 | 10 (2) | 1.7 км | 1 BR | 46 м² | 1 спальня, 3 ліжка |
+| BN3 | [**Biba 2**](https://www.booking.com/hotel/hr/biba-zadar.html) | $985 | $197 | 10 (1) | 2.6 км | 2 BR | 70 м² | 4 ліжка, free child stay |
+| BN4 | [**Apartment Ivana**](https://www.booking.com/hotel/hr/apartment-ivana-zadar5.html) | $1,048 | $210 | **10 (24)** | 1.4 км | 2 BR | 70 м² | **24 відгуки 10/10!** 2 ванних, free child |
+| BN5 | [**Teal Apartment — free garage**](https://www.booking.com/hotel/hr/teal-apartment.html) | $1,054 | $211 | 10 (12) | 1.5 км | 2 BR | 54 м² | 12 відгуків, **безкоштовний гараж** |
+| BN6 | [**Apartment Popeye**](https://www.booking.com/hotel/hr/apartment-popeye-zadar.html) | $1,081 | $216 | new | 2.1 км | 2 BR | 80 м² | 4 ліжка, 2 ванних |
+| BN7 | [**Apartment Matek (Deluxe 110м²)**](https://www.booking.com/hotel/hr/apartment-matek.html) | $1,114 | $223 | 10 (3) | 2.1 км | 2 BR | **110 м²** | Deluxe, 2 living rooms, 2 baths, free child |
+| BN8 | [**Garden Retreat (Bibi)**](https://www.booking.com/hotel/hr/apartment-bibi-1.html) | $1,159 | $232 | 10 (3) | 2.5 км | 2 BR | 70 м² | Сад, безкоштовна парковка, 2 ванних |
+| BN9 | [**Apartman M**](https://www.booking.com/hotel/hr/apartman-m-zadar1.html) | $1,230 | $246 | **10 (16)** | 1.7 км | 2 BR | 90 м² | 16 відгуків 10/10, 4 ліжка |
+| BN10 | [**2BR Premium Vicky — fireplace**](https://www.booking.com/hotel/hr/premium-apartment-vicky.html) | $1,263 | $253 | **10 (24)** | 1.6 км | 2 BR | 70 м² | **24 відгуки 10/10**, камін, парковка |
+| BN11 | [**Maris Apartment**](https://www.booking.com/hotel/hr/maris-apartment-zadar.html) | $1,290 | $258 | 10 (3) | 2.2 км | 2 BR | 52 м² | |
+| BN12 | [**Limoncello Apartments**](https://www.booking.com/hotel/hr/limoncello-apartments.html) | $1,405 | $281 | 10 (11) | 2.3 км | 2 BR | 100 м² | Перший поверх, free child |
+| BN13 | [**Apartments Ive (2 units)**](https://www.booking.com/hotel/hr/apartman-ive-zadar.html) | $1,463 | $293 | 10 (4) | 2.5 км | 2×2 BR | 2×55 м² | **2 окремі квартири** для 5 осіб |
+| BN14 | [**Relax 3BDR — terrace + BBQ**](https://www.booking.com/hotel/hr/relax-zadar2.html) | $1,536 | $307 | 10 (7) | 2.3 км | 3 BR | **150 м²** | Та сама що N11 на Airbnb ($1,452) — **на Airbnb дешевше** |
+| BN15 | [**Adrian i Mia (2 units)**](https://www.booking.com/hotel/hr/apartmani-adrian-i-mia.html) | $1,686 | $337 | 10 (3) | 4.1 км | 2×1 BR | 2×55 м² | 2 окремі 1BR |
+| BN16 | [**Bella Zara lux — jacuzzi**](https://www.booking.com/hotel/hr/bella-zara-luxury-apartmant.html) | $1,744 | $349 | 10 (13) | 1.8 км | 2 BR | 93 м² | Джакузі, BBQ, **діти безкоштовно** |
+| BN17 | [**Green Oasis — jacuzzi 3BR**](https://www.booking.com/hotel/hr/green-oasis-zadar-with-jacuzzi.html) | $1,756 | $351 | 10 (4) | 2.2 км | 3 BR | **140 м²** | Джакузі, 4 ліжка |
+| BN18 | [**Apartman Korina — 3BR**](https://www.booking.com/hotel/hr/apartman-korina-zadar.html) | $1,756 | $351 | 10 (5) | 2.6 км | 3 BR | **150 м²** | 3 ванних |
+| BN19 | [**Apartments by the sea 24422**](https://www.booking.com/hotel/hr/apartments-by-the-sea-zadar-24422.html) | $1,759 | $352 | new | **450 м** | 2 BR | 75 м² | **Найближче до центру** з нових, але новий лістинг |
+
+### ⚠️ Важлива зміна цін (порівняно з 10.04.2026)
+
+- **B22 Apartment NeBo** — впала з **$1,965 → $1,575** ($390 economy, 23 відгуки 10/10). Це різке здешевлення робить варіант значно цікавішим.
+
+---
+
+## Airbnb — нові знахідки (27.04.2026)
+
+Свіжий пошук на Airbnb (entire_home, 2 сторінки) знайшов додаткові варіанти в Задарі та поруч (Bibinje, Sukošan). Усі ціни з конвертації RON→USD (~4.6 lei/$).
+
+| # | Назва | Ціна (5н) | $/ніч | Кімнати | Рейтинг | Локація | Примітки |
+|---|-------|-----------|-------|---------|---------|---------|----------|
+| AN1 | [**Calm Oasis Zara**](https://www.airbnb.com/rooms/14009145?adults=2&check_in=2026-07-10&check_out=2026-07-15&children=3) | ~$1,057 | ~$211 | 3 BR | 4.82 (148) | Zadar центр | Guest favorite, **148 відгуків!** 3 queen ліжка |
+| AN2 | [**Lovely 3 bedroom apartment**](https://www.airbnb.com/rooms/668828554130157791?adults=2&check_in=2026-07-10&check_out=2026-07-15&children=3) | ~$1,028 | ~$206 | 3 BR | 5.0 (10) | Zadar | Guest favorite, 6 ліжок |
+| AN3 | [**Modern 3-Bedroom Close to Beach**](https://www.airbnb.com/rooms/25420226?adults=2&check_in=2026-07-10&check_out=2026-07-15&children=3) | ~$1,856 | ~$371 | 3 BR | 4.98 (91) | Zadar біля пляжу | Guest favorite, **91 відгук**, 4.98 рейтинг |
+| AN4 | [**Apartments Bodulica**](https://www.airbnb.com/rooms/907996538293514793?adults=2&check_in=2026-07-10&check_out=2026-07-15&children=3) | ~$1,047 | ~$209 | 2 BR | 4.75 (16) | Zadar центр | **Superhost**, зі знижкою |
+| AN5 | [**Two bedroom apartment Nela**](https://www.airbnb.com/rooms/1112983079526350596?adults=2&check_in=2026-07-10&check_out=2026-07-15&children=3) | ~$828 | ~$166 | 2 BR | 5.0 (3) | Bibinje | 20% знижка, мало відгуків |
+| AN6 | [**Beautiful Apartman House Bibinje**](https://www.airbnb.com/rooms/566924?adults=2&check_in=2026-07-10&check_out=2026-07-15&children=3) | ~$1,028 | ~$206 | 3 BR | 4.8 (55) | Bibinje | Guest favorite, **55 відгуків**, 3 double beds |
+| AN7 | [**Apartman Zora & Lana**](https://www.airbnb.com/rooms/638310951248949884?adults=2&check_in=2026-07-10&check_out=2026-07-15&children=3) | ~$829 | ~$166 | 2 BR | 4.76 (17) | Північ Задару (~17 км) | 4 ліжка |
+| AN8 | [**Carmen's House**](https://www.airbnb.com/rooms/24749936?adults=2&check_in=2026-07-10&check_out=2026-07-15&children=3) | ~$1,147 | ~$229 | 3 BR | 5.0 (36) | Sukošan | Guest favorite, **36 відгуків 5.0** |
+| AN9 | [**Apartment Marko**](https://www.airbnb.com/rooms/17726443?adults=2&check_in=2026-07-10&check_out=2026-07-15&children=3) | ~$663 | ~$133 | 2 BR | 4.75 (64) | Sv. Filip (~30 км схід) | Guest favorite, 64 відгуки. Дешево, але далеко |
+| AN10 | [**Ap BENZE**](https://www.airbnb.com/rooms/41386193?adults=2&check_in=2026-07-10&check_out=2026-07-15&children=3) | ~$696 | ~$139 | 2 BR | 4.75 (8) | ~20 км південь | Бюджетний, але не близько до Задару |
+
+### Що з цих нових Airbnb варто виділити
+
+- **AN1 Calm Oasis Zara** — $1,057, **4.82/148** — найбільше відгуків серед нових. Центр Задару, 3BR. **Сильний кандидат**
+- **AN3 Modern 3BR Close to Beach** — $1,856, 4.98/91 — преміум варіант з 91 відгуком, біля пляжу
+- **AN6 Beautiful Bibinje** — $1,028, 4.8/55 — 3BR в Bibinje (8 км до Задару, біля моря), 55 відгуків
+- **AN8 Carmen's House** — $1,147, 5.0/36 — 3BR Sukošan (10 км), ідеальний рейтинг
+- **AN5 Apt Nela** — $828, 2BR з 20% знижкою — найдешевше в Bibinje
+
+---
+
 ## Booking.com (оновлено 10.04.2026, 5 ночей 10–15 липня)
 
 | # | Назва | Ціна (5н) | $/ніч | Рейтинг | До центру | Кімнати | Примітки |
@@ -101,6 +160,25 @@
 | B22 | [**Apartment NeBo**](https://www.booking.com/hotel/hr/pine-grove-apartment.html) | $1,965 | $393 | **9.9 (21)** | 1.9 км | 2 BR | Найвищий рейтинг 9.9 |
 | B23 | [**Sun & Sea Apartment Zadar**](https://www.booking.com/hotel/hr/apartman-zadar-sea-view.html) | $2,269 | $454 | 10 (2) | 4.2 км | 2 BR | |
 | B24 | [**Falkensteiner Premium Camping (тент)**](https://www.booking.com/hotel/hr/falkensteiner-premium-camping-zadar.html) | $2,842 | $568 | 9.0 (1865) | 2.5 км | tent | Кемпінг, 1865 відгуків |
+
+---
+
+## 🆕 ТОП з нового пошуку (27.04.2026)
+
+З-поміж усіх перевірених на двох платформах сильно виділяються:
+
+1. **BN4 Apartment Ivana** — $1,048, **10/24**, 2BR, 70м², 2 ванних, 1.4 км — найкраще співвідношення серед "10/10" з реальним обсягом відгуків
+2. **AN1 Calm Oasis Zara (Airbnb)** — $1,057, 4.82/**148**, 3BR, центр — **найбільше відгуків** серед нових
+3. **BN9 Apartman M** — $1,230, 10/16, 2BR, 90м², 1.7 км — 16 відгуків 10/10
+4. **BN10 2BR Premium Vicky** — $1,263, 10/24, 2BR, камін, парковка — 24 відгуки 10/10
+5. **B22 NeBo (значне здешевлення)** — $1,575 (раніше $1,965), 10/23, 2BR з балконом, дитячі ліжечка
+6. **AN8 Carmen's House (Sukošan)** — $1,147, 5.0/36, 3BR — для тих хто готовий жити за межами центру
+
+### Швидке порівняння Airbnb vs Booking для одного й того ж об'єкта
+
+- **Relax 3BDR BBQ**: Airbnb $1,452 (N11) vs **Booking $1,536** → **брати на Airbnb**
+- **Speranza**: Airbnb $1,496 (N12) vs **Booking $1,285** (B12) → **брати на Booking** (вже зазначено)
+- **Zadractive**: Airbnb $1,214 (A19) vs **Booking $1,168** (B8) → брати на Booking
 
 ---
 
